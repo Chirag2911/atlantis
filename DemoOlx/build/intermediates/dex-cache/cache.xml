@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Chirag\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Chirag\Desktop\DemoOlx\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-9a92f8d3e668d7e3e2e3267e6f5b6e3673519957.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chirag\Desktop\DemoOlx\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Chirag\Desktop\DemoOlx\app\build\intermediates\pre-dexed\debug\classes-b21abb79c2393ba1259188f05781e82dc7b47ae3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chirag\Desktop\DemoOlx\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Chirag\Desktop\DemoOlx\app\build\intermediates\pre-dexed\debug\classes-741a046144911ca284dd46f1478734aaf8841a79.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chirag\Desktop\DemoOlx\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Chirag\Desktop\DemoOlx\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-413bc11b4fe51612954b414e57c4cf95e44dd068.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chirag\Desktop\DemoOlx\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\Users\Chirag\Desktop\DemoOlx\app\build\intermediates\pre-dexed\debug\classes-bcd027b72c9ca1fa220aa016c202616a35539cc4.jar" />
+    </item>
+
+</items>
